@@ -1,2 +1,6 @@
 HI 
+<<<<<<< HEAD
 I am Manan
+=======
+THIS IS ACTIVITY1
+>>>>>>> activity1
