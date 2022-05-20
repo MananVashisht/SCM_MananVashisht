@@ -15,6 +15,7 @@ git cloud account creation
 git remote add origin <url>
 git clone <url>
 git push -u <url>
+git pull origin master
 
 git branch
 git branch <branchname>
@@ -22,3 +23,17 @@ git checkout <branchname>
 git branch
 git merge <branchname>
 git branch -d <branchname>
+
+.gitignore
+vi---esc:wq
+git mergetool
+git reset
+git reset --soft HEAD~1
+git reset --hard HEAD~1
+reset
+1. normal reset
+file-->changes-->add-->reset-->changes
+
+2. reset
+file-->achanges-->dd-->commit-->reset(soft)-->add
+file-->changes-->add-->commit-->reset(hard-->changes
